@@ -1,0 +1,5 @@
+const genreEnum = ["rock", "indie", "alternative", "grunge", "metal", "jazz", "country", "samba"]
+
+
+// export it, then import it and use it on the models
+// you can also create a route in the server than sends all the enums to the Frontend.
